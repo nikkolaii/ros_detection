@@ -1,0 +1,7 @@
+<launch>
+
+
+
+	<remap from="/different_topic" to="/needed_topic"/>
+
+</launch>
